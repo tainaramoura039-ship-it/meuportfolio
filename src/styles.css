@@ -71,3 +71,29 @@ body {
 .projeto p {
   color: #cbd5f5;
 }
+/* Ajuste do cabeçalho */
+header {
+  text-align: center;
+  margin-top: 40px;
+}
+
+header p {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #ccc;
+}
+
+header h1 {
+  margin-bottom: 30px;
+  font-size: 32px;
+}
+
+/* Espaçamento das seções */
+section {
+  margin: 40px;
+}
+
+/* Espaço entre projetos */
+.projeto {
+  margin-bottom: 20px;
+}
