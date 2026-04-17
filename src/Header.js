@@ -1,8 +1,8 @@
 export default function Header() {
-    return (
-      <header> className="header">
-        <h1>Meu Portfólio</h1>
-        <p>Tainara Moura</p> 
-      </header>
-    );
-  }
+  return (
+    <header className="header">
+      <h1>Meu Portfólio</h1>
+      <p>Tainara Moura</p>
+    </header>
+  );
+}
