@@ -4,7 +4,7 @@ import Projetos from "./Projeto";
 
 export default function App() {
   return (
-    <div> className="container">
+    <div className="container">
       <Header />
       <Projetos />
     </div>
