@@ -6,7 +6,7 @@ Projeto desenvolvido durante a aula de Programação Web do curso de Tecnologia 
 
 - O projeto desenvolvido nessa seção foi a migração do projeto desenvolvido na aula anterior.
 - Segue o link do repositório do projeto:  
-[ Clique aqui ](https://seu-link-aqui.com)
+[ Clique aqui ]https://github.com/tainaramoura039-ship-it/meuportfolio.git
 
 ## Atividade Prática
 
